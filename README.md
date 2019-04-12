@@ -1,16 +1,16 @@
 # Audio-Visual-Learning
 
-## audio-visual representation learning
+## Audio-visual representation learning
 
-## audio-visual scene understanding
+## Audio-visual scene understanding
 
-### audio-visual event localization
+### Audio-visual event localization
 
-### audio-visual scene-aware dialog
+### Audio-visual scene-aware dialog
 
-## audio-visual sound separation
+## Audio-visual sound separation
 
-## audio-visual visual localization
+## Audio-visual visual localization
 
 
 
